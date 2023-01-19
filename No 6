@@ -19,7 +19,7 @@ Output =
 ****
 *****
 
-//// Contoh Pattern java program 2 ////
+//// Contoh java pattern program 2 ////
 
 public class Main {
     public static void main(String[] args) {
